@@ -9,3 +9,6 @@ Unit tests were used to verify the functionality of the application
 	
 ## Exercise 2
 	Roman Numeral Parse converts an int value into it's respective Roman Numeral string value. Class could be expanded to convert Roman Numerals back to int value
+	
+## Exercise 3
+	Fibonacci Calculator gets all the values in the Fibonacci sequence up to and including n input, returns sum of values up to but not including nth input
