@@ -1,0 +1,16 @@
+Exercises/obj/Exercises.csproj.nuget.dgspec.json
+Exercises/obj/Exercises.csproj.nuget.g.props
+Exercises/obj/Exercises.csproj.nuget.g.targets
+Exercises/obj/project.assets.json
+Exercises/obj/project.nuget.cache
+Exercises/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+Exercises/obj/Debug/net5.0/Exercises.assets.cache
+Exercises/obj/Debug/net5.0/Exercises.csproj.FileListAbsolute.txt
+ExercisesUnitTests/obj/ExercisesUnitTests.csproj.nuget.dgspec.json
+ExercisesUnitTests/obj/ExercisesUnitTests.csproj.nuget.g.props
+ExercisesUnitTests/obj/ExercisesUnitTests.csproj.nuget.g.targets
+ExercisesUnitTests/obj/project.assets.json
+ExercisesUnitTests/obj/project.nuget.cache
+ExercisesUnitTests/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+ExercisesUnitTests/obj/Debug/net5.0/ExercisesUnitTests.assets.cache
+ExercisesUnitTests/obj/Debug/net5.0/ExercisesUnitTests.csproj.FileListAbsolute.txt
