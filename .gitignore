@@ -117,3 +117,10 @@ Exercises/obj/Debug/net5.0/Exercises.AssemblyInfo.cs
 Exercises/obj/Debug/net5.0/Exercises.AssemblyInfoInputs.cache
 Exercises/obj/Debug/net5.0/Exercises.csproj.AssemblyReference.cache
 Exercises/obj/Debug/net5.0/Exercises.GeneratedMSBuildEditorConfig.editorconfig
+ExercisesUnitTests/bin/Debug/net5.0/CoverletSourceRootsMapping
+ExercisesUnitTests/bin/Debug/net5.0/Exercises.dll
+ExercisesUnitTests/bin/Debug/net5.0/Exercises.pdb
+Exercises/bin/Debug/net5.0/Exercises.deps.json
+Exercises/bin/Debug/net5.0/Exercises.dll
+Exercises/bin/Debug/net5.0/Exercises.pdb
+Exercises/bin/Debug/net5.0/ref/Exercises.dll
