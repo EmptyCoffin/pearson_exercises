@@ -12,3 +12,6 @@ Unit tests were used to verify the functionality of the application
 	
 ## Exercise 3
 	Fibonacci Calculator gets all the values in the Fibonacci sequence up to and including n input, returns sum of values up to but not including nth input
+	
+## Exercise 1
+	Palindrome checker returns true or false depending on if a string is the same when reversed, case is ignored and works on full sentence.
